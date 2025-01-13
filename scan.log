@@ -1,0 +1,12 @@
+2025-01-13 05:24:33,375 - INFO - Starting Subfinder: subfinder -d youtube.com -o output/subfinder_output.txt
+2025-01-13 05:24:33,377 - INFO - Starting Sublist3r: python3 sublist3r.py -d youtube.com -o output/sublist3r_output.txt
+2025-01-13 05:24:44,102 - ERROR - Error during Subfinder: Subfinder encountered an error. Exit code: 512
+2025-01-13 05:24:58,184 - INFO - Completed Sublist3r in 24.81 seconds.
+2025-01-13 05:27:06,556 - INFO - Starting Subfinder: subfinder -d google.com -o output/subfinder_output.txt
+2025-01-13 05:27:06,558 - INFO - Starting Sublist3r: python3 sublist3r.py -d google.com -o output/sublist3r_output.txt
+2025-01-13 05:27:32,969 - INFO - Completed Sublist3r in 26.41 seconds.
+2025-01-13 05:28:15,286 - INFO - Completed Subfinder in 68.73 seconds.
+2025-01-13 05:31:46,956 - INFO - Starting Subfinder: subfinder -d youtube.com -o output/subfinder_output.txt
+2025-01-13 05:31:46,959 - INFO - Starting Sublist3r: python3 sublist3r.py -d youtube.com -o output/sublist3r_output.txt
+2025-01-13 05:32:08,779 - INFO - Completed Sublist3r in 21.82 seconds.
+2025-01-13 05:32:51,976 - INFO - Completed Subfinder in 65.02 seconds.

@@ -1,0 +1,10 @@
+admin.youtube.com
+ads.youtube.com
+cctldtest.youtube.com
+cms.youtube.com
+cyc.youtube.com
+uploads.stage.gdata.youtube.com
+misc-sni.youtube.com
+partner.youtube.com
+uberproxy-san.youtube.com
+upload.youtube.com
