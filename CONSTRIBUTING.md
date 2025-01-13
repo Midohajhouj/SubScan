@@ -38,7 +38,7 @@ git commit -m "Describe your changes here"
 
 Push your changes back to your forked repository.
 
-git push origin feature/your-feature-name
+git push origin feature/Midohajhouj
 
 7. Open a Pull Request
 
@@ -69,7 +69,7 @@ License
 
 By contributing to this repository, you agree that your contributions will be licensed under the project's open-source license (see the LICENSE file for details).
 
-Thank you for contributing to SubScanX!
+Thank you for contributing to SubScan!
 
 
 ### Sections Explained:
@@ -88,7 +88,7 @@ Thank you for contributing to SubScanX!
 12. **License**: This clarifies that contributions are licensed under the repository’s chosen open-source license.
 
 ### How to Customize:
-- **Fork URL**: Replace `YOUR-USERNAME` with the correct GitHub username in the `git clone` URL.
+- **Fork URL**: Replace `Midohajhouj` with the correct GitHub username in the `git clone` URL.
 - **License**: Mention the actual license in the **License** section. You can update it based on the repository’s license.
 
 This guide will help contributors understand how to participate in the project and follow a standard process.
