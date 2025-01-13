@@ -1,6 +1,6 @@
 SubScan - Advanced Subdomain Enumeration BY MIDO
 
-**SubScan** is a powerful tool for subdomain enumeration and vulnerability scanning. It utilizes popular subdomain enumeration tools like **Subfinder** and **Sublist3r** (I manually fix bugs), and optionally integrates a vulnerability scanning step (currently mocked). This tool is designed to be used by penetration testers, bug bounty hunters, and security researchers.
+**SubScan** is a powerful tool for subdomain enumeration and vulnerability scanning. It utilizes popular subdomain enumeration tools like **Subfinder** and **Sublist3r** (I manualy fix bugs), and optionally integrates a vulnerability scanning step (currently mocked). This tool is designed to be used by penetration testers, bug bounty hunters, and security researchers.
 
 ## Features
 - **Subdomain Enumeration**: Uses tools like Subfinder and Sublist3r to discover subdomains.
@@ -20,22 +20,22 @@ Before using **SubScanX**, you need to have the following dependencies installed
 
 ### Install Dependencies
 Install Python packages with pip:
-``bash
+```bash
 pip install termcolor pyfiglet
 
 Install Subfinder and Sublist3r
 
 To install Subfinder and Sublist3r, you can follow the instructions on their respective GitHub pages:
 
- Subfinder:
+    Subfinder:
 
 go get -u github.com/projectdiscovery/subfinder/v2/cmd/subfinder
 
 Sublist3r: Clone the repository and install the requirements:
 
- git clone https://github.com/aboul3la/Sublist3r.git
- cd Sublist3r
- pip install -r requirements.txt
+    git clone https://github.com/aboul3la/Sublist3r.git
+    cd Sublist3r
+    pip install -r requirements.txt
 
 Usage
 Basic Command
