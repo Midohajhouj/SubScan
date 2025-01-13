@@ -96,7 +96,7 @@ TODO
 Author
 
 Created by [MIDO].
-Feel free to reach out via [GitHub Profile or Email].
+Feel free to reach out via https://github.com/Midohajhouj/
 
 
 ### Key Sections:
