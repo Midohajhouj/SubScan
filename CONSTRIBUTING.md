@@ -1,4 +1,4 @@
-# Contributing to SubScan
+# Contributing to SubScan 1.0
 
 Thank you for considering contributing to **SubScan**! We welcome contributions from the community. Whether you’re reporting bugs, suggesting features, or submitting pull requests, your participation is appreciated.
 
