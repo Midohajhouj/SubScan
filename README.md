@@ -1,4 +1,4 @@
-##SubScan## - Advanced Subdomain Enumeration BY MIDO
+***SubScan*** - Advanced Subdomain Enumeration BY MIDO
 
 **SubScan** is a powerful tool for subdomain enumeration and vulnerability scanning. It utilizes popular subdomain enumeration tools like **Subfinder** and **Sublist3r** (I manually fix bugs), and optionally integrates a vulnerability scanning step (currently mocked). This tool is designed to be used by penetration testers, bug bounty hunters, and security researchers.
 
