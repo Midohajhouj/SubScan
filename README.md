@@ -11,7 +11,7 @@ SubScan - Advanced Subdomain Enumeration BY MIDO
 - **Verbose Mode**: Enables detailed output for deeper insights during execution.
 
 ## Prerequisites
-Before using **SubScanX**, you need to have the following dependencies installed:
+Before using **SubScan**, you need to have the following dependencies installed:
 - **Python 3.x**
 - **Subfinder**: [Subfinder GitHub](https://github.com/projectdiscovery/subfinder)
 - **Sublist3r**: [Sublist3r GitHub](https://github.com/aboul3la/Sublist3r)
@@ -36,6 +36,7 @@ Sublist3r: Clone the repository and install the requirements:
     git clone https://github.com/aboul3la/Sublist3r.git
     cd Sublist3r
     pip install -r requirements.txt
+    chmod + *
 
 Usage
 Basic Command
