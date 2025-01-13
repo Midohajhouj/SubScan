@@ -18,25 +18,12 @@ Before using **SubScan**, you need to have the following dependencies installed:
 - **pyfiglet**: To generate the ASCII banner.
 - **termcolor**: For colored terminal output.
 
-### Install Dependencies
+### Install Dependencies for dummies
 Install Python packages with pip:
 ```bash
-pip install termcolor pyfiglet
 
-Install Subfinder and Sublist3r
-
-To install Subfinder and Sublist3r, you can follow the instructions on their respective GitHub pages:
-
-    Subfinder:
-
-go get -u github.com/projectdiscovery/subfinder/v2/cmd/subfinder
-
-Sublist3r: Clone the repository and install the requirements:
-
-    git clone https://github.com/aboul3la/Sublist3r.git
-    cd Sublist3r
-    pip install -r requirements.txt
-    chmod + *
+Install Subfinder 
+apt update -y && apt upgrade -y && apt install subfinder && git clone https://github.com/Midohajhouj/SubScan.git && cd SubScan && chmod +x * && pip install -r requirements.txt && python3 subscan.py -h
 
 Usage
 Basic Command
