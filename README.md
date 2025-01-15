@@ -44,7 +44,7 @@ Available Arguments
 
 Example
 
-python subscan.py -d example.com -o subdomains.txt --vuln --verbose
+python3subscan.py -d example.com -o subdomains.txt --vuln --verbose
 
 This will:
 
